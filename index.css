@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Devonshire&family=Yaldevi:wght@500&display=swap');
+
+.under:hover{
+    font-size: large;
+    background: none;
+    border-bottom: 5px solid yellow;
+    cursor: pointer;
+}
+.under2:hover{
+    font-size: 33px;
+    cursor: pointer;
+    border-bottom: 5px solid rgb(250, 250, 5);
+}
+
+#email{
+    background: none;
+    border: 5px solid white;
+}
+#full-name{
+    background: none;
+    border: 5px solid white;
+}
+
+.spl:hover{
+    border-bottom: 1px solid white;
+}
+
+.dfix{
+    position: fixed;
+}
+
+.bl{
+    
+    background-color: black;
+}
+
+/* .centre{
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    justify-items: center;
+} */
+
+.none{
+    background: none;
+    border: none;
+    font-family: 'Devonshire', cursive;
+
+}
+
+
+.none:hover{
+    border: 3px solid black;
+    border-radius: 33px;
+    font-weight: bolder;
+}
